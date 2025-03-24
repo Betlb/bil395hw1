@@ -77,12 +77,12 @@ Make sure you have **Flex**, **Bison**, and **GCC** installed:
 sudo apt install flex bison gcc -y
 
 Then run;
-**yacc -d calculator.y
+yacc -d calculator.y
 lex calculator.l
-gcc lex.yy.c y.tab.c -o advanced_calculator -lm**
+gcc lex.yy.c y.tab.c -o advanced_calculator -lm
 
 Run interactively;
-**./advanced_calculator**
+./advanced_calculator
 
 and you will see;
 Advanced Calculator
