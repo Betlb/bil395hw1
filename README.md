@@ -1,5 +1,5 @@
 # bil395odev1
-Programlama dilleri lex-yacc çalışması.
+Programming languages lex-yacc studies
 
 # 🧮 Advanced Calculator (Lex & Yacc)
 
