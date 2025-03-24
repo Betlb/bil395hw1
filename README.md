@@ -1,4 +1,4 @@
-# bil395odev1
+# bil395hw1
 Programming languages lex-yacc studies
 
 # 🧮 Advanced Calculator (Lex & Yacc)
