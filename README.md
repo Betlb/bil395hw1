@@ -1,4 +1,3 @@
-# Advanced Calculator (Lex & Yacc)
 Programming languages lex-yacc studies
 
 # 🧮 Advanced Calculator (Lex & Yacc)
